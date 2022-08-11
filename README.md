@@ -1,2 +1,2 @@
 # Speech-to-Text
-Speech to Text Translation - Using Google Speech Recognition
+Speech to Text Conversion - Using Google Speech Recognition
